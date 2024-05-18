@@ -1,0 +1,15 @@
+.test{
+    color: blue;
+}
+
+body {
+    margin: 0
+}
+#map {
+    height: 100vh;
+    width: 100vw;
+    
+}
+body { 
+    margin: 0;
+}
